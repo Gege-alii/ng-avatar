@@ -1,0 +1,23 @@
+h2{
+    color: rgb(44, 62, 80);
+    }
+    .title{
+        color: rgb(44, 62, 80);
+    }
+    .li{
+       background-color: rgb(44, 62, 80); 
+        width: 100px;
+         height: 5px;
+    }
+    .layer{
+        background-color: #1abc9ce6;
+        opacity: 0;
+        cursor: pointer;
+        transition: .6s opacity;
+    }
+    .layer:hover {
+        opacity: 1;
+    }
+#showimg{
+    z-index: 999999;
+}

@@ -1,0 +1,25 @@
+h2{
+    color: rgb(44, 62, 80);
+    }
+    .title{
+        color: rgb(44, 62, 80);
+    }
+    .li{
+       background-color: rgb(44, 62, 80); 
+        width: 100px;
+         height: 5px;
+    }
+    .top-50{
+        top: 50px !important;
+    }
+    
+    label{
+        color:#1abc9c;
+        transition: .7s;
+    }
+    .form-control:focus {
+        box-shadow: none;
+    }
+    .btn{
+        background-color: #1abc9c;
+    }
